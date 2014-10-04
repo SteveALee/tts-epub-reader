@@ -11,6 +11,7 @@ Create a fully accessible text-to-speech book reader that is accessible to all u
 * The reader must fully support [ePUB3](http://idpf.org/epub/30)
 * The reader must utilize the [text-to-speech API](https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html)
 * The reader must highlight words as they are read.
+* The reader must support the visual representation of the "book's" page up to and including all embedded graphics
 
 ## Use Cases
 
